@@ -4,32 +4,28 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Senior Capstone / STEERus (Spring 2020) ](/project1)
+<img src="images/STEERus_final.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Senior Project / Stock Application (Spring 2020)](/project2)
+<img src="images/stocks.am preview.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ThinkLinks / User Experience Design (Fall 2018)](/project3)
+<img src="images/thinklinks preview.png?raw=true"/>
 
 ---
+[TopTicket! / Web Development (Spring 2018)](/project3)
+<img src="images/TopTicket preview.png?raw=true"/>
 
-### Category Name 2
+
+### Quick Links
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
