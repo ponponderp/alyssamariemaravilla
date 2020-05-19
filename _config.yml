@@ -16,7 +16,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://twitter.com/alohasushicore/">Icon Credit @alohasushicore on Twitter!~</a>
   <br><br>
-  [Current Resume] (/pdf/Alyssa Resume Spring 2020.pdf)
+  [Current Resume](/pdf/Alyssa Resume Spring 2020.pdf)
+  <br><br>
   
   
 theme: jekyll-theme-minimal
