@@ -42,8 +42,10 @@ TopTicket! is a decentralized application (DApp), which was developed using HTML
 
 ### Other Quick Links
 
-- [Behance](behance.net/alyssamaravilla)
-- [Itch.io](ponponderp.itch.io)
+<a href="behance.net/alyssamaravilla">Behance</a>
+<br>
+<a href="ponponderp.itch.io">Itch.io</a>
+<br>
 
 
 
