@@ -33,7 +33,7 @@ ThinkLinks is a mobile application that was designed to help students find study
 <img src="images/thinklinks preview.png?raw=true"/>
 
 ---
-[TopTicket! / Web Development (Spring 2018)](/project3)
+[TopTicket! / Web Development (Spring 2018)](/project4)
 <br>
 TopTicket! is a decentralized application (DApp), which was developed using HTML5, Solidity (for smart contracts), Bootstrap, and Javascript. This DApp was connected to MetaMask to use ethereum as a cryptocurrency for purchasing movie tickets, with the Solidity smart contracts connected to the ehtereum blockchain. 
 <img src="images/TopTicket preview.png?raw=true"/>
