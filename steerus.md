@@ -56,19 +56,15 @@ Coaching Capsules are the main content for STEERus, and we created specific coac
 We utilized the "Projects" module in the MangoApps framework for Coaching Capsules with all the posibilities of customization that it allowed us to include for different modules to be included
 <br>
 
-**Free Coaching Capsules** 
-<br>
 Free Coaching Capsules only have "Posts" and "Pages" modules in them, there is limited content for these users.
 <br>
 <img src="images/freecapsule.png?raw=true">
-<br>
 
-**Premium Coaching Capsules**
 <br>
 Premium Coaching Capsules have more modules available and allow Student users to communicate with coaches and other resources that can provide benefits as well.
 <img src="images/premiumcapsule.png?raw=true">
 <br>
-- **Defining Coaching Journey**
+- **Defined Coaching Journey**
 <br>
 Only Premium Students have access to this in coaching capsules! With the MangoApps framework we utilized the "Tasks" module.
 <br>
