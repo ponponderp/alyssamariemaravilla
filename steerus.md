@@ -74,11 +74,11 @@ Only Premium Students have access to this in coaching capsules! With the MangoAp
 <br>
 It is essentially a progress tracker that shows the tasks a user needs to complete a coaching journey and their current progress. 
 <br>
-<img src"images/coachjourney.png?raw=true">
+<img src="images/coachjourney.png?raw=true">
 <br><br>
 
 ## Overall Capstone Reflection:
-Working in an agile environment was very interesting. At first I didn’t understand how I could
+Working in an agile environment was very interesting, especially with the changes that occured with moving to completely meeting up online due to COVID-19. At first I didn’t understand how I could
 play around with MangoApps, but when given the admin role there’s just so much that can
 changed and edited within the platform. This is my first time playing around with a commercial
 product like this, and it gave me a better idea of how a lot of businesses run their own
