@@ -4,7 +4,7 @@
 
 ## Portfolio 
 
-[Senior Capstone / STEERus (Spring 2020) ](/capstone)
+[Senior Capstone / STEERus (Spring 2020) ](/steerus)
 <br><br>
 With <a href="https://www.steerus.io">STEERus</a> as my Senior capstone sponsor, I was placed in the Framework team where we were given the task of providing an intuitive application for the end user that helps them navigate through the application easily. We had to augment the existing basic framework of MangoApps with custom capsules (from our sister capstone team) and open source or other existing code via API integration.
 <br><br>
