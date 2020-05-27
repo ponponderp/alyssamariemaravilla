@@ -14,8 +14,11 @@ For the Spring 2020 semester, I was able to work with another Frontend developer
 **STEERus** is a lean startup that plans on creating a social coaching platform for students and new graduates to be prepared for the real world, helping people develop their soft skills.
 <br>
 We worked in an agile environment and used Trello to keep track of our progress throughout the semester. We communicated thru weekly scrum calls with our project manager and our sponsors throughout each sprint. And at the end of each sprint, we would reflect on what we learned and what we could improve on. 
+<br>
+<a href="https://www.youtube.com/watch?v=YNZhtc9KRAA&">Capstone Final Demo</a>
+<br>
+<a href="https://drive.google.com/open?id=1Fc8skmDLXOwKl7HaDSwPZN8e5CwZ1zzD">Capstone Presentations</a>
 
----
 ### Overall Goals:
 
 - Custom Skins based on user types
@@ -51,7 +54,7 @@ Student users are split between "Freemium" and "Premium" access types to coachin
 <br>
 Coaching Capsules are the main content for STEERus, and we created specific coaching capsules based on the Top 10 soft skills found on their website, along with other capsules we felt fit with the situation going on during the semester. For "Premium" capsules, a lock indicates that free users cannot access it and they are asked to notify an admin if they are interested in joining/payment. 
 <br>
-<img src="images/coachcapsules.png?raw=true"88>
+<img src="images/coachcapsules.png?raw=true">
 <br>
 We utilized the "Projects" module in the MangoApps framework for Coaching Capsules with all the posibilities of customization that it allowed us to include for different modules to be included
 <br>
@@ -79,7 +82,4 @@ play around with MangoApps, but when given the admin role there’s just so much
 changed and edited within the platform. This is my first time playing around with a commercial
 product like this, and it gave me a better idea of how a lot of businesses run their own
 inner-company websites, since that’s what MangoApps is for
-<br><br>
-<a href="https://www.youtube.com/watch?v=YNZhtc9KRAA&">Capstone Final Demo</a>
-<br><br>
-<a href="https://drive.google.com/open?id=1Fc8skmDLXOwKl7HaDSwPZN8e5CwZ1zzD">Capstone Presentations</a>
+
