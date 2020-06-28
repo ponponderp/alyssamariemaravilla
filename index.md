@@ -6,6 +6,4 @@ I am currently working on a HCI research project with the <a href="https://socia
 <br><br>
 Just a little bit about me, I guess you can say I have a lot of hobbies and interests. I have a strong passion for music, I'm currenty teaching myself bass! I also play a lot of Animal Crossing and other JRPGs in my free time. And I really like anime, to the point that I have a figure collection of over 50+ figures and model kits hanging around my room.
 <br><br>
-<img src="images/slapbass.png?raw=true">
-
 
