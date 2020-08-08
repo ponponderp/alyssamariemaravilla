@@ -1,7 +1,3 @@
-## Check out my work!
-
----
-
 ## Portfolio 
 
 [Senior Capstone / STEERus (Spring 2020) ](/steerus)
