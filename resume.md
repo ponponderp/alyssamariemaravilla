@@ -2,4 +2,4 @@
 
 ---
 
-<img src="images/resume - 2020.png?raw=true"/>
+<img src="images/Maravilla resume - 2020.png?raw=true"/>
