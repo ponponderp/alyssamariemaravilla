@@ -2,4 +2,4 @@
 
 ---
 
-<img src="images/maravilla updated resume oct 2020.png?raw=true"/>
+<img src="images/Alyssa Resume 2021.png?raw=true"/>
