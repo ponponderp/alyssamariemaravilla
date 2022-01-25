@@ -2,4 +2,4 @@
 
 ---
 
-<embed src="pdf/alyssa resume 2022.pdf" type="application/pdf"   height="100%" width="100%">
+<img src="images/alyssa resume 2020.png?raw=true"/>
