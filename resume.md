@@ -2,4 +2,4 @@
 
 ---
 
-<img src="images/alyssa resume 2020.png?raw=true"/>
+<img src="images/alyssa resume 2022.png?raw=true"/>
