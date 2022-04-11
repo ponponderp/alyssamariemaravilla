@@ -7,11 +7,9 @@ With <a href="https://www.steerus.io">STEERus</a> as my Senior capstone sponsor,
 <img src="images/STEERus_final.jpg?raw=true"/>
 
 ---
-[Senior Project / Stock Web Application (Spring 2020)](https://web.njit.edu/~am2823/download/IT490/IT490-Frontend-master/)
+[Senior Project / Stock Web Application (Spring 2020)](https://github.com/krg25/IT490-Frontend)
 <br><br>
 For my IT490 Systems Integration Senior project, a team of four of us were tasked with creating a software as service utilizing a frontend, backend, database and data source server. For this project I managed the Frontend Server. Our product was a stock website where users can search and purchase stocks. Our servers were connected thru Rabbit MQ and hosted on Amazon Web Services. 
-<br>
-<a href="https://github.com/krg25/IT490-Frontend">Github Repository</a>
 <br><br>
 <img src="images/stocks.am preview.png?raw=true"/>
 
